@@ -4,7 +4,7 @@
 
 #Pitanje 1
 U Bin/Debug je dodan ClassLibrary1.dll.
-Nakon što maknem ClassLibrary1.dll ne mogu pokrenuti .exe. Ako želim poslati aplikaciju
+Nakon što maknem ClassLibrary1.dll ne mogu pokrenuti .exe
 
 #Pitanje 2
 Konzolna aplikacija je prikazala novi string.
