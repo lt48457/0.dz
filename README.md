@@ -4,7 +4,8 @@
 
 #Pitanje 1
 Primjećujem da je u Bin/Debug dodan ClassLibrary1.dll.
-Nakon što maknem ClassLibrary1.dll ne mogu pokrenuti .exe
+Nakon što maknem ClassLibrary1.dll i pokrenem program opet se stvori ClassLibrary1.dll i program se normalno izvršava.
+Ako želim poslati aplikaciju poslat ću KonzolnaAplikacija.exe i ClassLibrary1.dll
 
 #Pitanje 2
 Konzolna aplikacija je prikazala novi string.
