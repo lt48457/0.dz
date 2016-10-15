@@ -3,7 +3,7 @@
 0036484573
 
 #Pitanje 1
-U Bin/Debug je dodan ClassLibrary1.dll.
+Primjećujem da je u Bin/Debug dodan ClassLibrary1.dll.
 Nakon što maknem ClassLibrary1.dll ne mogu pokrenuti .exe
 
 #Pitanje 2
